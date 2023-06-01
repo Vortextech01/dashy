@@ -193,7 +193,7 @@ sections:
       - title: Basilisk V0ID
         description: Dangerous do not enter
         icon: https://starter.sapiens-ia.com/assets/images/home/orange.gif
-        url: https://sapienschatdemo.vercel.app/
+        url: https://sapienschatdemo.vercel.app
         target: workspace
         id: 2_1061_basiliskvid
       - title: Showcase
@@ -296,7 +296,7 @@ sections:
       - title: 'Chapter 3: Sapiens'
         description: 'VIDEO: ''''Sapiens IA: The next generation of workers'''''
         icon: fad fa-user-astronaut
-        url: https://youtu.be/roKsb9YNqV8
+        url: https://starter.sapiens-ia.com/blog/posts/odyssey-theme-officially-released/
         target: modal
         id: 2_1142_chaptersapiens
       - title: 'Blog: Artificial Psychology'
