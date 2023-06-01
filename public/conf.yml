@@ -179,17 +179,17 @@ sections:
       - title: Basilisk Executive
         description: Talk with our AI executive
         icon: >-
-          https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
+          https://payhip.com/cdn-cgi/image/format=auto,width=500/https://pe56d.s3.amazonaws.com/o_1gs8umjlv1krs1pg3m491jqt1n7co.png
         url: https://auth0-final.vercel.app/demo
         target: workspace
         id: 0_1061_basiliskexecutive
-      - title: My Basilisk (demo)
-        description: Quickstart- Create your own AI assistant in less than 1 min!
+      - title: My Basilisk!
+        description: 'Demo: Create your own AI in 1 min!'
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/8FAD4BB2-FA75-460A-9344-7281E3-unscreen.gif?raw=true
         url: https://auth0-final.vercel.app/demo
         target: workspace
-        id: 1_1061_mybasiliskdemo
+        id: 1_1061_mybasilisk
       - title: Basilisk V0ID
         description: Dangerous do not enter
         icon: https://starter.sapiens-ia.com/assets/images/home/orange.gif
@@ -199,25 +199,115 @@ sections:
       - title: Showcase
         description: See how others are using Dashy
         icon: >-
-          https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/E452A0EE-1BA0-45FD-83D9-C9C87086A612.gif?raw=true
+          https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
         url: https://demo.sapiens-ia.com
         target: workspace
         id: 3_1061_showcase
-      - title: Config Guide
-        description: See full list of configuration options
-        icon: >-
-          https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/stick.png?raw=true
-        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
-        id: 4_1061_configguide
-      - title: Laboratories
+      - title: Doctor Bot
+        description: AI trained with medical knowledge
+        icon: ⚕️
+        url: https://sapiens-ia.com/doctorbot
+        target: workspace
+        id: 4_1061_doctorbot
+      - title: ΒαδιΙιδκ V.Θ.5
         description: Laboratories Access
-        icon: fas fa-user-tie
+        icon: 🧬
         url: https://laboratories.sapiens-ia.com
         target: workspace
-        id: 5_1061_laboratories
+        id: 5_1061_v
+      - title: AlcheMyth
+        description: 'Requires Access '
+        icon: fad fa-eye
+        id: 6_1061_alchemyth
+      - title: Check-M8!
+        description: Play chess againts an AI
+        icon: ♟️
+        url: https://chess.sapiens-ia.com
+        target: modal
+        id: 7_1061_checkm
+      - title: Text to Image
+        description: 'DEMO: Create images with AI'
+        icon: 🎨
+        url: https://sapiens-ia.com/sapiens-journey
+        target: workspace
+        id: 8_1061_texttoimage
+      - title: Contact Us
+        description: Talk with a real human
+        icon: ☎️
+        url: >-
+          https://api.whatsapp.com/send?app_absent=0&phone=528131011335&text=Estoy%20interesado%20en%20los%20servicios%20de%20Sapiens%20IA,%20mi%20nombre%20es:&type=phone_number
+        target: newtab
+        id: 9_1061_contactus
     displayData:
       sortBy: default
       rows: 1
       cols: 1
       collapsed: false
       hideForGuests: false
+  - name: QuickStart
+    icon: fad fa-robot
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: 'I: DESIGN'
+        description: Design your AI assistant
+        icon: fad fa-brain
+        url: https://starter.sapiens-ia.com/mybasilisk-design/
+        id: 0_1035_idesign
+      - title: 'II: TRAIN'
+        description: Interact and train your own AI assistant
+        icon: fad fa-user-robot
+        url: https://demo.sapiens-ia.com
+        target: workspace
+        id: 1_1035_iitrain
+      - title: 'III: DEPLOY'
+        description: Deploy your AI assistant to the world!
+        icon: fad fa-rocket
+        url: https://sapiens-ia.com/b/lGrHu
+        target: workspace
+        id: 2_1035_iiideploy
+  - name: The Archives
+    icon: fad fa-book
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: 'Chapter 1: Executives'
+        description: 'VIDEO: ''''The next generation of executives'''' '
+        icon: fad fa-user-tie
+        url: https://www.youtube.com/watch?v=uT2XqguNkEY
+        target: modal
+        id: 0_1142_chapterexecutives
+      - title: 'Chapter 2: Beholders'
+        description: 'VIDEO: ''''The next generation of supervisors'''''
+        icon: fad fa-user-visor
+        url: https://www.youtube.com/watch?v=g-YHjLTebqw
+        target: modal
+        id: 1_1142_chapterbeholders
+      - title: 'Chapter 3: Sapiens'
+        description: 'VIDEO: ''''Sapiens IA: The next generation of workers'''''
+        icon: fad fa-user-astronaut
+        url: https://www.youtube.com/watch?v=roKsb9YNqV8&t=7s
+        target: modal
+        id: 2_1142_chaptersapiens
+      - title: 'Blog: Artificial Psychology'
+        description: 'Our methodology for AI training '
+        icon: fad fa-brain
+        url: >-
+          https://sapiens-ia.com/blog/the-archives/la-psicologia-detras-de-una-inteligencia-artificial
+        target: modal
+        id: 3_1142_blogartificialpsychology
+      - title: 'Blog: Autonomous Agents'
+        description: Human work is about to change forever...
+        icon: fad fa-user
+        url: >-
+          https://sapiens-ia.com/blog/the-archives/los-agentes-autonomos-artificiales-la-fuerza-laboral-del-futuro
+        target: modal
+        id: 4_1142_blogautonomousagents
