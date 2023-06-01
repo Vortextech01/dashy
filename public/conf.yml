@@ -218,11 +218,13 @@ sections:
       - title: AlcheMyth
         description: 'Requires Access '
         icon: fad fa-eye
+        url: https://sapiens-ia.com/alchemyth
+        target: workspace
         id: 6_1061_alchemyth
       - title: Check-M8!
         description: Play chess againts an AI
         icon: ♟️
-        url: https://chess.sapiens-ia.com
+        url: https://chess.carlosdavila12.repl.co/
         target: modal
         id: 7_1061_checkm
       - title: Text to Image
@@ -282,19 +284,19 @@ sections:
       - title: 'Chapter 1: Executives'
         description: 'VIDEO: ''''The next generation of executives'''' '
         icon: fad fa-user-tie
-        url: https://www.youtube.com/watch?v=uT2XqguNkEY
+        url: https://youtu.be/uT2XqguNkEY
         target: modal
         id: 0_1142_chapterexecutives
       - title: 'Chapter 2: Beholders'
         description: 'VIDEO: ''''The next generation of supervisors'''''
         icon: fad fa-user-visor
-        url: https://www.youtube.com/watch?v=g-YHjLTebqw
+        url: https://youtu.be/g-YHjLTebqw
         target: modal
         id: 1_1142_chapterbeholders
       - title: 'Chapter 3: Sapiens'
         description: 'VIDEO: ''''Sapiens IA: The next generation of workers'''''
         icon: fad fa-user-astronaut
-        url: https://www.youtube.com/watch?v=roKsb9YNqV8&t=7s
+        url: https://youtu.be/roKsb9YNqV8
         target: modal
         id: 2_1142_chaptersapiens
       - title: 'Blog: Artificial Psychology'
