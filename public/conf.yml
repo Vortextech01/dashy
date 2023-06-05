@@ -188,7 +188,7 @@ sections:
         target: workspace
         id: 1_1061_mybasilisk
       - title: Basilisk V0ID
-        description: Dangerous do not enter
+        description: EXPERIMENTAL-dangerous
         icon: https://starter.sapiens-ia.com/assets/images/home/orange.gif
         url: https://sapienschatdemo.vercel.app
         target: workspace
