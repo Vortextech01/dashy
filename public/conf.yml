@@ -2,11 +2,8 @@ pageInfo:
   title: Sapiens IA
   description: Welcome to the Laboratories!
   navLinks:
-    - title: GitHub
-      path: https://github.com/Lissy93/dashy
-      target: newtab
-    - title: Documentation
-      path: https://dashy.to/docs
+    - title: Contact us
+      path: https://api.whatsapp.com/send?app_absent=0&phone=528131011335&text=Estoy%20interesado%20en%20los%20servicios%20de%20Sapiens%20IA,%20mi%20nombre%20es:&type=phone_number
       target: newtab
 appConfig:
   theme: lissy
@@ -180,14 +177,14 @@ sections:
         description: Talk with our AI executive
         icon: >-
           https://payhip.com/cdn-cgi/image/format=auto,width=500/https://pe56d.s3.amazonaws.com/o_1gs8umjlv1krs1pg3m491jqt1n7co.png
-        url: https://auth0-final.vercel.app/demo
+        url: https://quickstart-chi.vercel.app/
         target: workspace
         id: 0_1061_basiliskexecutive
       - title: My Basilisk!
         description: 'Demo: Create your own AI in 1 min!'
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/8FAD4BB2-FA75-460A-9344-7281E3-unscreen.gif?raw=true
-        url: https://auth0-final.vercel.app/demo
+        url: https://demo.sapiens-ia.com/
         target: workspace
         id: 1_1061_mybasilisk
       - title: Basilisk V0ID
@@ -196,11 +193,11 @@ sections:
         url: https://sapienschatdemo.vercel.app
         target: workspace
         id: 2_1061_basiliskvid
-      - title: Showcase
-        description: See how others are using Dashy
+        - title: Services
+        description: Discover more about our pricing and services
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
-        url: https://demo.sapiens-ia.com
+        url: https://starter.sapiens-ia.com/company/pricing/
         target: workspace
         id: 3_1061_showcase
       - title: Doctor Bot
@@ -216,13 +213,13 @@ sections:
         target: workspace
         id: 5_1061_v
       - title: AlcheMyth
-        description: 'Requires Access '
+        description: 'An AI with ancient philosophical knowledge '
         icon: fad fa-eye
         url: https://sapiens-ia.com/alchemyth
         target: workspace
         id: 6_1061_alchemyth
       - title: Check-M8!
-        description: Play chess againts an AI
+        description: Play chess against an AI (train mode)
         icon: ♟️
         url: https://chess.carlosdavila12.repl.co/
         target: modal
@@ -284,19 +281,19 @@ sections:
       - title: 'Chapter 1: Executives'
         description: 'VIDEO: ''''The next generation of executives'''' '
         icon: fad fa-user-tie
-        url: https://youtu.be/uT2XqguNkEY
+        url: https://astro-iota-seven.vercel.app/work/markdown-mystery-tour
         target: modal
         id: 0_1142_chapterexecutives
       - title: 'Chapter 2: Beholders'
         description: 'VIDEO: ''''The next generation of supervisors'''''
         icon: fad fa-user-visor
-        url: https://youtu.be/g-YHjLTebqw
+        url: https://astro-iota-seven.vercel.app/work/h20
         target: modal
         id: 1_1142_chapterbeholders
       - title: 'Chapter 3: Sapiens'
         description: 'VIDEO: ''''Sapiens IA: The next generation of workers'''''
         icon: fad fa-user-astronaut
-        url: https://starter.sapiens-ia.com/blog/posts/odyssey-theme-officially-released/
+        url: https://astro-iota-seven.vercel.app/work/nested/duvet-genius
         target: modal
         id: 2_1142_chaptersapiens
       - title: 'Blog: Artificial Psychology'
