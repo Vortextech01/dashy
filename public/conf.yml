@@ -193,7 +193,7 @@ sections:
         url: https://sapienschatdemo.vercel.app
         target: workspace
         id: 2_1061_basiliskvid
-        - title: Services
+      - title: Services
         description: Discover more about our pricing and services
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
