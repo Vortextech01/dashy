@@ -28,9 +28,9 @@ appConfig:
   hideComponents:
     hideHeading: false
     hideNav: false
-    hideSearch: false
+    hideSearch: true
     hideSettings: false
-    hideFooter: false
+    hideFooter: true
   auth:
     enableGuestAccess: false
     users: []
@@ -40,9 +40,9 @@ appConfig:
   preventLocalSave: false
   disableConfiguration: false
   disableConfigurationForNonAdmin: false
-  allowConfigEdit: true
+  allowConfigEdit: false
   enableServiceWorker: false
-  disableContextMenu: false
+  disableContextMenu: true
   disableUpdateChecks: false
   disableSmartSort: false
   enableErrorReporting: false
