@@ -26,8 +26,8 @@ appConfig:
   enableFontAwesome: true
   enableMaterialDesignIcons: false
   hideComponents:
-    hideHeading: true
-    hideNav: true
+    hideHeading: false
+    hideNav: false
     hideSearch: true
     hideSettings: false
     hideFooter: true
@@ -266,7 +266,7 @@ sections:
       - title: 'III: DEPLOY'
         description: Deploy your AI assistant to the world!
         icon: fad fa-rocket
-        url: https://payhip.com/sapiens-ia.com/b/lGrHu
+        url: https://payhip.com/sapiensIA/b/lGrHu/
         target: workspace
         id: 2_1035_iiideploy
   - name: The Archives
@@ -300,13 +300,13 @@ sections:
         description: 'Our methodology for AI training '
         icon: fad fa-brain
         url: >-
-          https://sapiens-ia.com/blog/the-archives/la-psicologia-detras-de-una-inteligencia-artificial
+          https://payhip.com/sapiensIA/blog/the-archives/la-psicologia-detras-de-una-inteligencia-artificial
         target: modal
         id: 3_1142_blogartificialpsychology
       - title: 'Blog: Autonomous Agents'
         description: Human work is about to change forever...
         icon: fad fa-user
         url: >-
-          https://sapiens-ia.com/blog/the-archives/los-agentes-autonomos-artificiales-la-fuerza-laboral-del-futuro
+          https://payhip.com/sapiensIA/blog/the-archives/los-agentes-autonomos-artificiales-la-fuerza-laboral-del-futuro
         target: modal
         id: 4_1142_blogautonomousagents
