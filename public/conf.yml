@@ -197,7 +197,7 @@ sections:
         description: Discover more about our pricing and services
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
-        url: https://payhip.com/sapiensIA/
+        url: https://payhip.com/sapiensIA/services
         target: workspace
         id: 3_1061_showcase
       - title: Doctor Bot
