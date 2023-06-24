@@ -14,6 +14,8 @@ appConfig:
   defaultOpeningMethod: workspace
   statusCheck: false
   statusCheckInterval: 0
+  backgroundImg: >-
+    https://raw.githubusercontent.com/Vortextech01/astro/main/examples/portfolio/public/assets/garden.jpeg
   faviconApi: allesedv
   routingMode: history
   enableMultiTasking: false
