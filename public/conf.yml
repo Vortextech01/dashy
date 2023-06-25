@@ -218,6 +218,12 @@ sections:
         url: https://sapienschatdemo.vercel.app/
         target: workspace
         id: 6_1061_alchemyth
+      - title: PsyBot
+        description: 'Una AI experta en psicoanalisis y deduccion...'
+        icon: 🧠
+        url: https://quickstart-chi.vercel.app
+        target: workspace
+        id: 6_1061_alchemyth
       - title: Check-M8!
         description: Partida rapida de AI chess (train mode)
         icon: ♟️
