@@ -174,34 +174,34 @@ sections:
     icon: fas fa-atom
     items:
       - title: Basilisk Executive
-        description: Talk with our AI executive
+        description: Habla con nuestro AI executivo
         icon: >-
           https://payhip.com/cdn-cgi/image/format=auto,width=500/https://pe56d.s3.amazonaws.com/o_1gs8umjlv1krs1pg3m491jqt1n7co.png
         url: https://quickstart-chi.vercel.app/
         target: workspace
         id: 0_1061_basiliskexecutive
       - title: Basilisk AI
-        description: 'Demo: Meet Basilisk AI!'
+        description: 'Demo: Conoce a Basilisk AI!'
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/8FAD4BB2-FA75-460A-9344-7281E3-unscreen.gif?raw=true
-        url: https://demo.sapiens-ia.com/
+        url: https://chat.sapiens-ia.com/
         target: workspace
         id: 1_1061_mybasilisk
       - title: Basilisk V0ID
-        description: EXPERIMENTAL-dangerous
+        description: EXPERIMENTAL⚠️
         icon: https://starter.sapiens-ia.com/assets/images/home/orange.gif
         url: https://demo.sapiens-ia.com/
         target: workspace
         id: 2_1061_basiliskvid
       - title: Services
-        description: Discover more about our pricing and services
+        description: Descubre nuestros servicios y pricing
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/SAPIENS-IA-3-unscreen.gif?raw=true
         url: https://payhip.com/sapiensIA/services
         target: workspace
         id: 3_1061_showcase
       - title: Doctor Bot
-        description: AI trained with medical knowledge
+        description: AI entrenada con conocimiento medico
         icon: 👨🏻‍⚕️
         url: https://sapiens-bsk-02.vercel.app/
         target: workspace
@@ -213,25 +213,31 @@ sections:
         target: workspace
         id: 5_1061_v
       - title: AlcheMyth
-        description: 'An AI with ancient philosophical knowledge '
+        description: 'Una AI con conocimiento filosofico antiguo '
         icon: fad fa-eye
         url: https://sapienschatdemo.vercel.app/
         target: workspace
         id: 6_1061_alchemyth
       - title: Check-M8!
-        description: Play chess against an AI (train mode)
+        description: Partida rapida de AI chess (train mode)
         icon: ♟️
         url: https://chess.carlosdavila12.repl.co/
         target: modal
         id: 7_1061_checkm
       - title: Text to Image
-        description: 'DEMO: Create images with AI'
+        description: 'DEMO: Genera imagenes con AI'
         icon: 🎨
         url: https://sapiensia-sapiensia-openjourney.hf.space
         target: workspace
         id: 8_1061_texttoimage
+      - title: The StoryTeller
+        description: 'BETA⚠️: Historias infinitas'
+        icon: 📖
+        url: https://storyteller-tau.vercel.app
+        target: workspace
+        id: 8_1061_texttoimage
       - title: Contact Us
-        description: Talk with a real human
+        description: Conversa con un humano real
         icon: ☎️
         url: >-
           https://api.whatsapp.com/send?app_absent=0&phone=528131011335&text=Estoy%20interesado%20en%20los%20servicios%20de%20Sapiens%20IA,%20mi%20nombre%20es:&type=phone_number
