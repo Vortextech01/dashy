@@ -180,11 +180,11 @@ sections:
         url: https://demo-sapiens.vercel.app
         target: workspace
         id: 0_1061_basiliskexecutive
-      - title: Basilisk AI
-        description: 'Demo: Conoce a Basilisk AI!'
+      - title: My Basilisk!
+        description: 'Demo: Crea tu propio AI assistant!'
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/8FAD4BB2-FA75-460A-9344-7281E3-unscreen.gif?raw=true
-        url: https://chat.sapiens-ia.com/
+        url: https://custom-basilisk.vercel.app
         target: workspace
         id: 1_1061_mybasilisk
       - title: Basilisk V0ID
@@ -272,7 +272,7 @@ sections:
       - title: 'II: TRAIN'
         description: Interactua y entrena tu propio AI assistant
         icon: fad fa-user-robot
-        url: https://enchanting-paletas-f86eb6.netlify.app/
+        url: https://custom-basilisk.vercel.app
         target: workspace
         id: 1_1035_iitrain
       - title: 'III: DEPLOY'
