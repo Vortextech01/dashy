@@ -237,9 +237,14 @@ sections:
         target: workspace
         id: 8_1061_texttoimage
       - title: The StoryTeller
-        description: 'BETA⚠️: Historias infinitas'
-        icon: 📖
+        description: 'BETA⚠️: Infinite Characters EN-🇺🇸'
+        icon: ✨
         url: https://storyteller-tau.vercel.app
+        target: workspace
+      - title: El CuentaCuentos
+        description: 'BETA⚠️: Personajes Infinitos ES-🇲🇽'
+        icon: ✨
+        url: https://storyteller-es.vercel.app
         target: workspace
         id: 8_1061_texttoimage
       - title: Contact Us
