@@ -177,7 +177,7 @@ sections:
         description: Habla con nuestro AI executivo
         icon: >-
           https://payhip.com/cdn-cgi/image/format=auto,width=500/https://pe56d.s3.amazonaws.com/o_1gs8umjlv1krs1pg3m491jqt1n7co.png
-        url: https://quickstart-chi.vercel.app/
+        url: https://demo-sapiens.vercel.app
         target: workspace
         id: 0_1061_basiliskexecutive
       - title: Basilisk AI
