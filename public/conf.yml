@@ -180,11 +180,11 @@ sections:
         url: https://quickstart-chi.vercel.app/
         target: workspace
         id: 0_1061_basiliskexecutive
-      - title: My Basilisk!
-        description: 'Demo: Create your own AI in 1 min!'
+      - title: Basilisk AI
+        description: 'Demo: Meet Basilisk AI!'
         icon: >-
           https://github.com/Vortextech01/Basilisk.V.0.7/blob/main/public/8FAD4BB2-FA75-460A-9344-7281E3-unscreen.gif?raw=true
-        url: https://demo.sapiens-ia.com/demo/
+        url: https://demo.sapiens-ia.com/
         target: workspace
         id: 1_1061_mybasilisk
       - title: Basilisk V0ID
@@ -202,7 +202,7 @@ sections:
         id: 3_1061_showcase
       - title: Doctor Bot
         description: AI trained with medical knowledge
-        icon: ⚕️
+        icon: 👨🏻‍⚕️
         url: https://sapiens-bsk-02.vercel.app/
         target: workspace
         id: 4_1061_doctorbot
@@ -227,7 +227,7 @@ sections:
       - title: Text to Image
         description: 'DEMO: Create images with AI'
         icon: 🎨
-        url: https://payhip.com/sapiensIA/
+        url: https://sapiensia-sapiensia-openjourney.hf.space
         target: workspace
         id: 8_1061_texttoimage
       - title: Contact Us
@@ -266,7 +266,7 @@ sections:
       - title: 'III: DEPLOY'
         description: Deploy your AI assistant to the world!
         icon: fad fa-rocket
-        url: https://payhip.com/sapiensIA/b/lGrHu/
+        url: https://payhip.com/b/lGrHu
         target: workspace
         id: 2_1035_iiideploy
   - name: The Archives
