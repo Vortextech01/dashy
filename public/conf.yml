@@ -265,18 +265,18 @@ sections:
       hideForGuests: false
     items:
       - title: 'I: DESIGN'
-        description: Design your AI assistant
+        description: Diseña tu propio AI assistant
         icon: fad fa-brain
         url: https://starter.sapiens-ia.com/mybasilisk-design/
         id: 0_1035_idesign
       - title: 'II: TRAIN'
-        description: Interact and train your own AI assistant
+        description: Interactua y entrena tu propio AI assistant
         icon: fad fa-user-robot
-        url: https://demo.sapiens-ia.com/demo
+        url: https://enchanting-paletas-f86eb6.netlify.app/
         target: workspace
         id: 1_1035_iitrain
       - title: 'III: DEPLOY'
-        description: Deploy your AI assistant to the world!
+        description: Estrena tu AI assistant a el mundo!
         icon: fad fa-rocket
         url: https://payhip.com/b/lGrHu
         target: workspace
@@ -293,19 +293,19 @@ sections:
       - title: 'Chapter 1: Executives'
         description: 'VIDEO: ''''The next generation of executives'''' '
         icon: fad fa-user-tie
-        url: https://astro-iota-seven.vercel.app/work/markdown-mystery-tour
+        url: https://payhip.com/SapiensIA/executives
         target: modal
         id: 0_1142_chapterexecutives
       - title: 'Chapter 2: Beholders'
         description: 'VIDEO: ''''The next generation of supervisors'''''
         icon: fad fa-user-visor
-        url: https://astro-iota-seven.vercel.app/work/h20
+        url: https://payhip.com/SapiensIA/beholder
         target: modal
         id: 1_1142_chapterbeholders
       - title: 'Chapter 3: Sapiens'
         description: 'VIDEO: ''''Sapiens IA: The next generation of workers'''''
         icon: fad fa-user-astronaut
-        url: https://astro-iota-seven.vercel.app/work/nested/duvet-genius
+        url: https://payhip.com/SapiensIA/
         target: modal
         id: 2_1142_chaptersapiens
       - title: 'Blog: Artificial Psychology'
